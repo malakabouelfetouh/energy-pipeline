@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.env
+scratch/
+*.log
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+.prefect/
