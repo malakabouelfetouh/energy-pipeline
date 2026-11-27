@@ -89,7 +89,7 @@ pip install -e ".[dev]"
 Windows (PowerShell): `Copy-Item .env.example .env`
 macOS or Linux: `cp .env.example .env`
 
-Open `.env` and set your own `POSTGRES_PASSWORD`. Never commit `.env`.
+Open `.env` and set your own `POSTGRES_PASSWORD`. DO NOT commit `.env`.
 
 **4. Start the database**
 
